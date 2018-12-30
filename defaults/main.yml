@@ -676,6 +676,7 @@ packages__conditional_role:
       - 'spl-dkms'
       - 'virtualbox-dkms'
       - 'broadcom-sta-dkms'
+      - 'open-vm-tools-dkms'
     require: 1
     additional_packages:
       - 'dkms'
